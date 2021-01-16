@@ -1,0 +1,83 @@
+.titulo{
+			font-family: 'general';
+			background-image: url(../imagenes/rub.jpg);
+			text-align: center;
+
+			color: black;
+		}
+.encuentro{
+			font-family: 'general';
+			background-image: url(../imagenes/azul.jpg);
+			text-align: center;
+			color: white;
+			box-shadow: 0px 0px 5px 5px #4bd8fb;
+			-webkit-box-shadow: 0px 0px 5px 5px #4bd8fb;
+		}
+.ganadore{
+			font-family: 'general';
+			background-image: url(../imagenes/oro.jpg);
+			text-align: center;
+			color: black;
+			box-shadow: 0px 0px 10px 10px #fafd1b;
+			-webkit-box-shadow: 0px 0px 10px 10px #fafd1b;
+		}
+.partida{
+			font-family: 'general';
+			background-image: url(../imagenes/neon.jpg);
+			text-align: center;
+			color: white;
+			box-shadow: 0px 0px 10px 10px #fafd1b;
+			-webkit-box-shadow: 0px 0px 10px 10px #fafd1b;
+		}
+.subtitulo{
+			font-family: 'general';
+			background-image: url(../imagenes/rock.jpg);
+			color: black;
+			padding-left: 10px;
+		}
+.detalles-partida{
+			background-color: black;
+			width: 100%;
+			height: 100%;
+			background-size: cover;
+		}
+@font-face{
+			font-family: 'general';
+			src: url(../fuentes/Demoness.otf);
+		}
+.fequipos{
+	font-family: 'general';
+	background-color: white;
+	width: 200px;
+	text-align: center;
+	height: 20px;
+	font-size: 15px;
+	border-color: #c62d42;
+	border-radius: 20px;
+	border-width: 10px;
+}
+.imagenes{
+			height: 250px;
+			width: 250px;
+		}
+.imagen-redonda{
+			border-radius: 160px;
+			border:10px solid #ff3c2c;
+		}
+.letra{
+			font-family: 'general';
+			text-align: center;
+			color: white;
+		}
+.imagen-hero{
+			height: 100px;
+			width: 100px;
+			border-radius: 160px;
+			border:2px solid white;
+		}
+.imagen-item{
+			height: 37px;
+			width: 37px;
+			border-radius: 160px;
+			border:2px solid white;			
+		}

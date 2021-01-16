@@ -1,0 +1,242 @@
+[
+	{
+		"id":0,
+		"name":"RAMA FÉRREA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/branches_lg.png",
+		"local":"../../imagenes/items/item0.png"
+	},
+	{
+		"id":1,
+		"name":"ANILLO DE PROTECCIÓN",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/ring_of_protection_lg.png",
+		"local":"../../imagenes/items/item1.png"
+	},
+	{
+		"id":2,
+		"name":"PALO MÁGICO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/magic_stick_lg.png",
+		"local":"../../imagenes/items/item2.png"
+	},
+	{
+		"id":3,
+		"name":"VARITA MÁGICA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/magic_wand_lg.png",
+		"local":"../../imagenes/items/item3.png"
+	},
+	{
+		"id":4,
+		"name":"ANILLO DE BASILIUS",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/ring_of_basilius_lg.png",
+		"local":"../../imagenes/items/item4.png"
+	},
+		{
+		"id":5,
+		"name":"CAPA FULGURANTE",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/glimmer_cape_lg.png",
+		"local":"../../imagenes/items/item5.png"
+	},
+	{
+		"id":6,
+		"name":"CAPUCHA DESAFIANTE",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/hood_of_defiance_lg.png?3",
+		"local":"../../imagenes/items/item6.png"
+	},
+	{
+		"id":7,
+		"name":"CRYSTALYS",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/lesser_crit_lg.png?3",
+		"local":"../../imagenes/items/item7.png"
+	},
+	{
+		"id":8,
+		"name":"LANZA DRAGÓN",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/dragon_lance_lg.png?3",
+		"local":"../../imagenes/items/item8.png"
+	},
+	{
+		"id":9,
+		"name":"POTENCIADOR DE ENERGÍA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/energy_booster_lg.png?3",
+		"local":"../../imagenes/items/item9.png"
+	},
+		{
+		"id":10,
+		"name":"CLARIDAD",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/clarity_lg.png?3",
+		"local":"../../imagenes/items/item10.png"
+	},
+	{
+		"id":11,
+		"name":"FUEGO FEÉRICO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/faerie_fire_lg.png?3",
+		"local":"../../imagenes/items/item11.png"
+	},
+	{
+		"id":12,
+		"name":"HUMO DEL ENGAÑO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/smoke_of_deceit_lg.png?3",
+		"local":"../../imagenes/items/item12.png"
+	},
+	{
+		"id":13,
+		"name":"GUARDIÁN OBSERVADOR",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/ward_observer_lg.png?3",
+		"local":"../../imagenes/items/item13.png"
+	},
+	{
+		"id":14,
+		"name":"GUARDIÁN CENTINELA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/ward_sentry_lg.png?3",
+		"local":"../../imagenes/items/item14.png"
+	},
+		{
+		"id":15,
+		"name":"MANGO ENCANTADO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/enchanted_mango_lg.png?3",
+		"local":"../../imagenes/items/item15.png"
+	},
+	{
+		"id":16,
+		"name":"BÁLSAMO CURATIVO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/flask_lg.png?3",
+		"local":"../../imagenes/items/item16.png"
+	},
+	{
+		"id":17,
+		"name":"TANGO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/tango_lg.png?3",
+		"local":"../../imagenes/items/item17.png"
+	},
+	{
+		"id":18,
+		"name":"TOMO DEL CONOCIMIENTO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/tome_of_knowledge_lg.png?3",
+		"local":"../../imagenes/items/item18.png"
+	},
+	{
+		"id":19,
+		"name":"POLVO DE LA REVELACIÓN",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/dust_lg.png?3",
+		"local":"../../imagenes/items/item19.png"
+	},
+	{
+		"id":20,
+		"name":"BOTELLA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/bottle_lg.png?3",
+		"local":"../../imagenes/items/item20.png"
+	},
+	{
+		"id":21,
+		"name":"GUANTES DE FUERZA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/gauntlets_lg.png?3",
+		"local":"../../imagenes/items/item21.png"
+	},
+	{
+		"id":22,
+		"name":"ZAPATILLAS DE AGILIDAD",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/slippers_lg.png?3",
+		"local":"../../imagenes/items/item22.png"
+	},
+	{
+		"id":23,
+		"name":"MANTO DE INTELIGENCIA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/mantle_lg.png?3",
+		"local":"../../imagenes/items/item23.png"
+	},
+	{
+		"id":24,
+		"name":"TIARA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/circlet_lg.png?3",
+		"local":"../../imagenes/items/item24.png"
+	},
+		{
+		"id":25,
+		"name":"CINTURÓN DE FUERZA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/belt_of_strength_lg.png?3",
+		"local":"../../imagenes/items/item5.png"
+	},
+	{
+		"id":26,
+		"name":"BANDA DE PIEL ÉLFICA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/boots_of_elves_lg.png?3",
+		"local":"../../imagenes/items/item26.png"
+	},
+	{
+		"id":27,
+		"name":"TOGA DE LOS MAGOS",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/robe_lg.png?3",
+		"local":"../../imagenes/items/item27.png"
+	},
+	{
+		"id":28,
+		"name":"CORONA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/crown_lg.png?3",
+		"local":"../../imagenes/items/item28.png"
+	},
+	{
+		"id":29,
+		"name":"HACHA DE OGRO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/ogre_axe_lg.png?3",
+		"local":"../../imagenes/items/item29.png"
+	},
+		{
+		"id":30,
+		"name":"CUCHILLA DE PRESTEZA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/blade_of_alacrity_lg.png?3",
+		"local":"../../imagenes/items/item30.png"
+	},
+	{
+		"id":31,
+		"name":"BASTÓN DE BRUJERÍA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/staff_of_wizardry_lg.png?3",
+		"local":"../../imagenes/items/item31.png"
+	},
+	{
+		"id":32,
+		"name":"HOJA MITIGANTE",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/quelling_blade_lg.png?3",
+		"local":"../../imagenes/items/item32.png"
+	},
+	{
+		"id":33,
+		"name":"GOTAS DE LLUVIA INFUNDIDAS",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/infused_raindrop_lg.png?3",
+		"local":"../../imagenes/items/item33.png"
+	},
+	{
+		"id":34,
+		"name":"ORBE VENENOSO",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/orb_of_venom_lg.png?3",
+		"local":"../../imagenes/items/item34.png"
+	},
+		{
+		"id":35,
+		"name":"PIEDRA DE LA PLAGA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/blight_stone_lg.png?3",
+		"local":"../../imagenes/items/item35.png"
+	},
+	{
+		"id":36,
+		"name":"CUCHILLAS DE ATAQUE",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/blades_of_attack_lg.png?3",
+		"local":"../../imagenes/items/item36.png"
+	},
+	{
+		"id":37,
+		"name":"COTA DE MALLA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/chainmail_lg.png?3",
+		"local":"../../imagenes/items/item37.png"
+	},
+	{
+		"id":38,
+		"name":"BASTÓN",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/quarterstaff_lg.png?3",
+		"local":"../../imagenes/items/item38.png"
+	},
+	{
+		"id":39,
+		"name":"YELMO DE LA VOLUNTAD FÉRREA",
+		"img":"https://cdn.cloudflare.steamstatic.com/apps/dota2/images/items/helm_of_iron_will_lg.png?3",
+		"local":"../../imagenes/items/item39.png"
+	}
+]

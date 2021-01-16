@@ -1,0 +1,93 @@
+
+/*style de la creacion de salas - seleccion de las reglas del juego*/
+#creacion-sala{
+	background: url(../imagenes/Fondo_Gif.gif);
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+
+#creacion-sala img{
+	width: 300px;
+  	height: 300px;
+  	margin-top: 30px;
+  	margin-left: 100px;
+  	margin-right: 100px;
+}
+
+#creacion-sala #imagen_redonda{
+	border-radius: 160px;
+	border:10px solid #fff;
+}
+
+	
+#creacion-sala #imagen_redonda:hover{
+filter: saturate(180%);
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #0096d2;
+-webkit-box-shadow: 0px 0px 15px 15px #0096d2;
+}
+
+#creacion-sala #titulo{
+ font-family: "Allerta Stencil", Sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+/*style de la creacion de salas - seleccion de los equipos*/
+#creacion-equipos{
+	background: url(../imagenes/Fondo_Gif.gif);
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+}
+
+#creacion-equipos img{
+	width: 300px;
+  	height: 300px;
+  	margin-top: 30px;
+  	margin-left: 100px;
+  	margin-right: 100px;
+}
+
+#creacion-equipos #imagen_redonda{
+	border-radius: 160px;
+	border:10px solid #fff;
+}
+
+	
+#creacion-sala #imagen_redonda:hover{
+filter: equipos(180%);
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #0096d2;
+-webkit-box-shadow: 0px 0px 15px 15px #0096d2;
+}
+
+#creacion-equipos #titulo{
+ font-family: "Allerta Stencil", Sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+/*----------------------------------------------*/
+
+		.borde{
+			background-color: gray;
+			height: 200px;
+		}
+		.borde1{
+			background-color: aquamarine;
+			height: 50px;
+			text-align: center;
+		}
+		.borde2{
+			background-color: olivedrab;
+			height: 50px;
+			text-align: center;
+		}
+		.borde3{
+			background-color: orangered;
+			height: 50px;
+			text-align: center;
+		}

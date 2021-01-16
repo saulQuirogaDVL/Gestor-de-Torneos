@@ -1,0 +1,298 @@
+
+/*seleccion del juego*/
+		.titulocs{
+			  font-size: 36px;
+			  margin: 0;
+			  padding: 6px 0;
+			  line-height: 1;
+			  font-family: "Poppins", sans-serif;
+			  font-weight: 700;
+			  letter-spacing: 3px;
+			  font-weight: bold;
+			  text-transform: uppercase;
+			  background-image: linear-gradient(to right, #033455 , #b83e2f);
+			  text-align: center;
+			  color: white;
+		}
+
+
+		.espaciado{
+			height: 166px;
+		}
+		.imagenes{
+			height: 300px;
+		}
+		.imagen-redonda{
+			border-radius: 160px;
+			border:10px solid #ff3c2c;
+		}
+		.imagen-redonda:hover{
+			filter: saturate(180%);
+			border-radius:50%;
+			-webkit-border-radius:50%;
+			box-shadow: 0px 0px 15px 15px #ff3c2c;
+			-webkit-box-shadow: 0px 0px 15px 15px #ff3c2c;
+		}
+		.imagen-redondaw{
+			border-radius: 160px;
+			border:10px solid #2895c8;
+		}
+		.imagen-redondaw:hover{
+			filter: saturate(180%);
+			border-radius:50%;
+			-webkit-border-radius:50%;
+			box-shadow: 0px 0px 15px 15px #2895c8;
+			-webkit-box-shadow: 0px 0px 15px 15px #2895c8;
+		}
+		.seleccion-juego{	
+			background-image: url("../imagenes/backwd2.jpg");
+			width: 100%;
+			background-size: cover;
+		}
+		.seleccion-juego:before{	
+			content:'';
+			position: absolute;
+		    top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			background-color: rgba(0,0,0,0.3);
+		}
+/**/
+		.creacion-sala{
+			background-color: black;
+			width: 100%;
+			background-image: url(../imagenes/ty.jpg);
+			background-size: cover;
+		}
+
+		.creacion-sala:before{	
+			position: fixed;
+			content:'';
+		    top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			background-color: rgba(0,0,0,0.3);
+		}
+
+		@font-face{
+			font-family: 'general';
+			src: url(../fuentes/Demoness.otf);
+		}
+
+		.titulo{
+			font-family: 'general';
+			background-color: #c81d1e;
+			text-align: center;
+			color: black;
+		}
+		.letra{
+			font-family: 'general';
+			background-image: url(../imagenes/rock.jpg);
+			margin-top: 25px;
+			box-shadow: 0px 0px 5px 5px #ff3c2c;
+			-webkit-box-shadow: 0px 0px 5px 5px #ff3c2c;
+		}
+		.inputxt{
+			margin-top: 25px;
+			font-family: 'general';
+			background-image:  url(../imagenes/rock2.jpg);
+			color:white;
+		}
+
+		.inputxt:hover{
+			margin-top: 25px;
+			font-family: 'general';
+			box-shadow: 0px 0px 15px 15px gray;
+			-webkit-box-shadow: 0px 0px 15px 15px gray;
+			background-image:  url(../imagenes/rock2.jpg);
+		}
+
+
+		.imagenes{
+			margin-top: 25px;
+		}
+		.selector{
+			font-family: 'general';
+			margin-top: 25px;
+			height: 26px;
+			background-image:  url(../imagenes/rock2.jpg);
+			color:white;
+		}
+
+		.selector:hover{
+			margin-top: 25px;
+			font-family: 'general';
+			box-shadow: 0px 0px 15px 15px gray;
+			-webkit-box-shadow: 0px 0px 15px 15px gray;
+			background-image:  url(../imagenes/rock2.jpg);
+			color:black;
+		}
+
+		.buton{
+			background-color: #bb0000;
+			font-family: 'general';
+			height: 50px;
+			border-radius: 10px;
+		}
+		.buton:hover {
+			  background-color: white;
+		}
+		.error{
+			font-family: 'general';
+			background-color: #e29b1b;
+			margin-top: 25px;
+			color: white;
+		}
+	/**/
+	.creacion-equipos{
+			background-image: url(../imagenes/teams.jpeg);
+			width: 100%;
+			background-size: cover;
+		}
+
+		.cabezera{
+			font-family: 'general';
+			width: 200px;
+			height: 50px;
+			border:10px solid #520000;
+			text-align: center;
+			background-image: url(../imagenes/rub2.jpg);
+			text-align: center;
+			color: white;
+			box-shadow: 0px 0px 5px 5px #5f2f29;
+			-webkit-box-shadow: 0px 0px 5px 5px #5f2f29;
+
+		}
+		.contenido{
+			font-family: 'general';
+			width: 200px;
+			height: 50px;
+			border:10px solid #4e0802;
+			background-image: url(../imagenes/rub.jpg);
+			text-align: center;
+			box-shadow: 0px 0px 5px 5px #ff3c2c;
+			-webkit-box-shadow: 0px 0px 5px 5px #ff3c2c;
+
+		}
+/**/
+.revicion-juego{	
+			background-color: #141414;
+			width: 100%;
+			background-size: cover;
+		}
+.logosr{
+			border-radius: 160px;
+			border:5px solid #ff3c2c;
+			box-shadow: 0px 0px 5px 5px #fe8484;
+			-webkit-box-shadow: 0px 0px 5px 5px #fe8484 ;
+			/*animation-duration: 3s;
+			animation-name: slidein;
+			animation-iteration-count: infinite;*/
+		}
+/*animaciones y como implementarlas pa un futuro mas op
+@keyframes slidein {
+  from {
+    			box-shadow: 0px 0px 5px 5px #fe8484;
+			-webkit-box-shadow: 0px 0px 5px 5px #fe8484 ;
+  }
+
+  to {
+  				box-shadow: 0px 0px 10px 10px #fe8484;
+			-webkit-box-shadow: 0px 0px 10px 10px #fe8484 ;
+  }
+}*/
+.titulor{
+			font-family: 'general';
+			background-image: url(../imagenes/rub.jpg);
+			text-align: center;
+			color: black;
+			margin-top: 20px;
+			box-shadow: 0px 0px 10px 10px #fe4d4d;
+			-webkit-box-shadow: 0px 0px 10px 10px #fe4d4d ;
+		}
+.letrar{
+		font-family: 'general';
+		padding-top: 5px;
+		color: white;
+		font-size: 20px;
+		background-color: #bb0000;
+		margin-top: 10px;   
+		height: 50px;
+		text-align: center;
+		width: 200px;
+		box-shadow: 0px 0px 10px 10px #6b0000;
+		-webkit-box-shadow: 0px 0px 10px 10px #6b0000 ;
+		border-radius: 10px;
+	    background-image: url(../imagenes/rock2.jpg);
+}
+.letra2r{
+		font-family: 'general';
+		font-size: 20px;
+		text-align: center;
+		background-color: #dc0000;
+		height: 50px;
+		width: 250px;
+		margin-top: 10px;
+		box-shadow: 0px 0px 10px 10px #a2281f;
+		-webkit-box-shadow: 0px 0px 10px 10px #a2281f ;
+		border-radius: 10px;
+
+			background-image: url(../imagenes/rock.jpg);
+}
+.randomr{
+		font-family: 'general';
+		font-size: 35px;
+		padding-top: 19px;
+		cursor: pointer;
+}
+
+.butonr{
+		background-color: #bb0000;
+		font-family: 'general';
+		height: 50px;	
+		width:  200px;
+		margin-top: 30px;
+		font-size: 15px;
+		text-align: center;	
+		border-radius: 10px;
+	}
+.butonr:hover {
+		 background-color: white;
+   }
+.tablasr{
+	font-family: 'general';
+	width: 200px;
+	text-align: center;
+	height: 40px;
+	border-color: #FE6F5E;
+	border-radius: 20px;
+	border-width: 10px;
+}
+.versusr{
+	width: 50px;
+	height: 50px;
+	border-radius: 20px;
+}
+.tablas2r{
+	font-family: 'general';
+	width: 130px;
+	text-align: center;
+	height: 40px;
+	border-color: #FE6F5E;
+	border-radius: 20px;
+	border-width: 10px;
+}
+.versus2r{
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+}
+
+
+.revicion-juego{
+			background-color: black;
+			width: 100%;
+			background-size: cover;
+		}

@@ -1,0 +1,203 @@
+.info-partida{
+			background-image: url(../imagenes/fnd.jpg);
+			width: 100%;
+			background-image: linear-gradient(to right, #020006 , #5b1713);
+		}
+@font-face{
+			font-family: 'general';
+			src: url(../fuentes/Demoness.otf);
+}
+
+.titulo{
+		font-family: 'general';
+		background-image: url(../imagenes/rub.jpg);
+		text-align: center;
+		color: black;
+}
+.subtitulo{
+		font-family: 'general';
+		background-color: #EC2300;
+		background-image: url(../imagenes/rub.jpg);
+		text-align: center;
+		color: white;
+}
+
+.letra{
+		font-family: 'general';
+		background-color: #ff3c2c;
+		width: 200px;
+		font-size: 17px;
+		text-align: center;
+		height: 30px;
+		background-image: url(../imagenes/rock.jpg);
+}
+.letrakills{
+		font-family: 'general';
+		background-color: #ff3c2c;
+		width: 150px;
+		height: 30px;
+		font-size: 15px;
+		padding-top: 5px;
+		color: white;
+		background-image: url(../imagenes/rub2.jpg);
+}
+
+.tablas{
+	font-family: 'general';
+	width: 100px;
+	text-align: center;
+	height: 35px;
+	font-size: 10px;
+	border-color: #c62d42;
+	border-radius: 20px;
+	border-width: 10px;
+
+}
+.select{
+	border-radius: 20px;
+	height: 50px;
+	font-size: 20px;
+	text-align: center;
+	width: 250px;
+	font-family: 'general';
+	background-color: #ec2300;
+	color: black;
+	background-image: url(../imagenes/rub.jpg);
+}
+.select:hover{
+	background-color: white;
+}
+.cajasT{
+	font-family: 'general';
+	width: 50px;
+	text-align: center;
+}
+
+.letrap{
+		font-family: 'general';
+		background-color: #800020;
+		width: 200px;
+		text-align: center;
+		height: 40px;
+		color: white;
+		border-radius: 20px;
+		border-style: solid;
+
+}
+
+.team1img{
+		border-radius: 160px;
+		border:5px solid #fce205;
+		box-shadow: 0px 0px 5px 5px #f5f5f5;
+		-webkit-box-shadow: 0px 0px 5px 5px #f5f5f5;
+}
+
+.team1slct{
+	border-radius: 20px;
+	height: 50px;
+	font-size: 20px;
+	text-align: center;
+	width: 150px;
+	font-family: 'general';
+	background-color: #fde64b;
+	color: black;
+}
+.team1ltr{
+		font-family: 'general';
+		background-color: #fcf4a3;
+		text-align: center;
+
+}
+.team1ct{
+	height: 20PX;
+	font-family: 'general';
+	width: 50px;
+	text-align: center;
+}
+.team1slct2{
+	border-radius: 20px;
+	height: 50px;
+	font-size: 15px;
+	text-align: center;
+	width: 250px;
+	font-family: 'general';
+	background-color: #fde64b;
+	color: black;
+}
+.team1lp{
+		font-family: 'general';
+		background-color: #fce205;
+		width: 200px;
+		text-align: center;
+		height: 40px;
+		border-radius: 20px;
+		border-style: solid;
+
+}
+
+
+
+.team2img{
+		border-radius: 160px;
+		border:5px solid #b2550f;
+				box-shadow: 0px 0px 5px 5px #000;
+		-webkit-box-shadow: 0px 0px 5px 5px #000;
+}
+
+.team2slct{
+	border-radius: 20px;
+	height: 50px;
+	font-size: 20px;
+	text-align: center;
+	width: 150px;
+	font-family: 'general';
+	background-color: #f9a602;
+	color: black;
+}
+.team2ltr{
+		font-family: 'general';
+		background-color: #fd6a01;
+		text-align: center;
+
+}
+.team2ct{
+	height: 20PX;
+	font-family: 'general';
+	width: 50px;
+	text-align: center;
+}
+.team2slct2{
+	border-radius: 20px;
+	height: 50px;
+	font-size: 15px;
+	text-align: center;
+	width: 250px;
+	font-family: 'general';
+	background-color: #f9812a;
+	color: black;
+}
+.team2lp{
+		font-family: 'general';
+		background-color: #ff7417;
+		width: 200px;
+		text-align: center;
+		height: 40px;
+		border-radius: 20px;
+		border-style: solid;
+
+}
+
+
+.btn{
+	background-color: #bb0000;
+	font-family: 'general';
+	height: 5	0px;
+	border-radius: 10px;
+	color: white;
+	font-size: 10px;
+	width: 100px;
+}
+.btn:hover {
+	background-color: white;
+	color: black;
+}
